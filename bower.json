@@ -1,0 +1,22 @@
+{
+  "name": "bower-sio",
+  "version": "0.0.0",
+  "authors": [
+    "The Big Red Geek <rhyneandrew@gmail.com>"
+  ],
+  "description": "Socket.IO Client",
+  "main": "socket.io.js",
+  "keywords": [
+    "Socket.IO"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/thebigredgeek/bower-sio",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "app/bower_components",
+    "test",
+    "tests"
+  ]
+}
